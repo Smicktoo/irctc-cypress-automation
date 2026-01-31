@@ -1,24 +1,24 @@
 {
   "TRAIN_NO": "11061",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "31/01/2026",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "01/02/2026",
   "SOURCE_STATION": "LTT",
   "BOARDING_STATION": LTT,
   "DESTINATION_STATION": "MBI",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "8591441592@superyes",
+  "UPI_ID_CONFIG": "8591441592@kotak811",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Ram Vilash Thakur",
-      "AGE": 73,
+      "AGE": 74,
       "GENDER": "Male",
       "SEAT": "Lower",
       "FOOD": "No Food"
     },
     {
       "NAME": "Buchni Devi",
-      "AGE": 61,
+      "AGE": 62,
       "GENDER": "Female",
       "SEAT": "Lower",
       "FOOD": "No Food"
